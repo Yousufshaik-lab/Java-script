@@ -30,4 +30,11 @@ console.log(typeof age);
 console.log(typeof undefined); // undefined
 console.log(typeof null); // object
 
+let x= 55;
+let y=++x
+console.log(`x:${x},y:${y}`)
+ console.log(3+5+"2")
+ 
+
+
 
